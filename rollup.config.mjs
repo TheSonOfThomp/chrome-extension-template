@@ -29,7 +29,7 @@ export default [
     output: {
       file: 'build/js/content.js',
       format: 'iife',
-      name: 'yente',
+      name: 'content',
       sourcemap: true,
     },
     plugins,
